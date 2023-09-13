@@ -6,26 +6,26 @@ body {
     /* https://stackoverflow.com/questions/5387576/css-margin-0-is-not-setting-to-0 */
     padding:0;
     margin:0;
-    background: rgb(40, 40, 40);
+    background: rgb(22, 23, 23);
     
 }
 
 h1 {
-    font-size:400%;
-    color: whitesmoke;
+    font-size:430%;
+    color: rgb(99, 210, 151);
     text-align:center;
     
 }
 
 h2 {
     font-size:200%;
-    color: rgb(240, 255, 60);
+    color: #63d297;
     text-align:center;
 }
 
 h3{
-    font-size:150%;
-    color:white;
+    font-size:140%;
+    color:rgb(99, 210, 151);
     text-align: center;
 }
 
@@ -33,11 +33,15 @@ p{
     font-size:100%;
     margin-left:30%;
     margin-right:30%;
-    color: rgb(202, 202, 202)
+    color: rgb(99, 210, 151)
 }
 
 a{
-    color: rgb(152, 231, 5)
+    color: rgb(99, 210, 151)
+}
+
+b{
+    color: rgb(0, 145, 255)
 }
 
 #centered{
@@ -47,7 +51,7 @@ a{
 /* https://www.w3schools.com/howto/howto_js_topnav.asp */
 .topnav{
      overflow:hidden;
-     background-color:rgb(0, 0, 0);
+     background-color:rgb(12, 12, 12);
 }
 
 .topnav div{
@@ -71,7 +75,7 @@ a{
 }
 
 .topnav a:hover{
-    color:rgb(0, 225, 255);
+    color:rgb(30, 225, 200);
 }
 
 .topnav a:active{
