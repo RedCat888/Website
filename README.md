@@ -1,2 +1,2 @@
 # What is this website for?
-I kind of just have this up so yall can know a little more about me
+This is my personal website to display my portfolio and learn more about me
